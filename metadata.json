@@ -1,0 +1,6 @@
+{
+  "name": "AgriSaathi AI",
+  "description": "AI-Based Smart Farmer Assistance and Safety Ecosystem with Crop Disease Detection, AI Voice Assistant, 3D Product Showcase, Market Intelligence, and Emergency SOS",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
